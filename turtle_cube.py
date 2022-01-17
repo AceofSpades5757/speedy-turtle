@@ -56,6 +56,11 @@ def draw_lots_of_turtles(
     x_start,
     y_start,
 ):
+    """Draw lots of cubes!
+
+    The name was a mistake on Daddy's part, but Daughter decided it was too
+    funny to fix.
+    """
     for z in range(cubes_to_draw):
 
         color = tuple(random.choices(range(256), k=3))
