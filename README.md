@@ -24,3 +24,7 @@ Enjoy!
 # Why
 
 Because it sounded like a fun way to get my beloved daughter interested in coding.
+
+# Examples
+
+![./turtle-python.png](./turtle-python.png)
