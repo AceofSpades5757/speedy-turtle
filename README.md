@@ -25,6 +25,12 @@ Enjoy!
 
 Because it sounded like a fun way to get my beloved daughter interested in coding.
 
-# Examples
+# Samples
+
+Here are some samples of how they look, and a cute picture we drew ❤️
 
 ![./turtle-python.png](./turtle-python.png)
+
+![cube](https://github.com/user-attachments/assets/cee96bd1-2197-4315-87ae-f0301e6bb4ff)
+
+![rainbow-hex](https://github.com/user-attachments/assets/785b15b4-3063-4056-b1a6-35f529742e36)
